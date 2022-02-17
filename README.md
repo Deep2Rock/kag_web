@@ -1,7 +1,7 @@
 # kag_web
 KAG forever 
 
-BBC =
-Big Black Car
-
-Eleszel kapolva vigyázva lépj utcára mert ott leszünk testvéreinkkel
+git status 
+git add . 
+git commit -m "szöveg"
+git push
