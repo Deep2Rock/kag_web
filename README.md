@@ -9,3 +9,4 @@ git commit -m "szöveg" //ír egy üzenet hozzá
 
 git push //feltölti a fájlt
 ```
+naon menő ez a fajl
