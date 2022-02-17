@@ -1,11 +1,11 @@
 # kag_web
 KAG forever 
-```
-git status 
+```js
+git status //a státuszának lekérdezése
 
-git add . 
+git add . //előkészíti a feltöltést
 
-git commit -m "szöveg"
+git commit -m "szöveg" //ír egy üzenet hozzá
 
-git push
+git push //feltölti a fájlt
 ```
